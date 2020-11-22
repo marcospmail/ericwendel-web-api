@@ -1,0 +1,14 @@
+{
+  "name": "ericwendel-web-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "sh src/script.sh"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
